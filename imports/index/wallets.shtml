@@ -1,63 +1,62 @@
-        <div class="anchor" id="online-wallet"></div>
 
-        <!-- ONLINE WALLET -->
-        <div class="silver-bg padding-t-2em padding-b-2em">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 header">
-                        <h4 class="black-text">Online Wallet</h4>
-                    </div>
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col-12">
-                        <p style="text-align: center;">
-                            Sign up now and get access to our online wallet compatible with desktop and mobile devices.</p>
-                        <br />
-                        <div style="text-align: center;">
-                            <a href="https://wallet.xentavo.org" class="btn btn-lg btn-success"
-                                style="width: 300px;" target="_blank">
-                                Get Xentavo Online Wallet
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="silver-bg">
+          <!-- ONLINE WALLET -->
+          <div class="padding-t-2em padding-b-2em">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-12 header">
+                          <h4 class="black-text">Online Wallet</h4>
+                      </div>
+                  </div>
+                  <hr />
+                  <div class="row">
+                      <div class="col-12">
+                          <p style="text-align: center;">
+                              Sign up now and get access to our online wallet compatible with desktop and mobile devices.</p>
+                          <br />
+                          <div style="text-align: center;">
+                              <a href="https://wallet.xentavo.org" class="btn btn-lg btn-success"
+                                  style="width: 300px;" target="_blank">
+                                  Get Xentavo Online Wallet
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <!-- ONLINE WALLET -->
+
+          <!-- DOWNLOADS -->
+          <div class="padding-b-2em">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-12 header">
+                          <h4 class="black-text">Downloads</h4>
+                      </div>
+                  </div>
+                  <hr />
+                  <div class="row">
+                      <div class="col-4">
+                          <h5 class="black-text"><i class="fab fa-windows" style="color: #444;"></i> Windows</h5>
+                          <ul class="text-muted">
+                              <li><a href="#" class="text-muted">Xentavo.zip</a></li>
+                              <li><a href="#" class="text-muted">Xentavo-Installer.exe</a></li>
+                          </ul>
+                      </div>
+                      <div class="col-4">
+                          <h5 class="black-text"><i class="fab fa-apple" style="color: #444;"></i> MacOS</h5>
+                          <ul class="text-muted">
+                              <li><a href="#" class="text-muted">Xentavo-Wallet.dmg</a></li>
+                          </ul>
+                      </div>
+                      <div class="col-4">
+                          <h5 class="black-text"><i class="fab fa-linux" style="color: #444;"></i> Linux</h5>
+                          <ul class="text-muted">
+                              <li><a href="#" class="text-muted">Xentavo-Wallet.tgz</a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <!-- DOWNLOADS -->
         </div>
-        <!-- ONLINE WALLET -->
-
-        <div class="anchor" id="downloads"></div>
-
-        <!-- DOWNLOADS -->
-        <div class="silver-bg padding-b-2em">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 header">
-                        <h4 class="black-text">Downloads</h4>
-                    </div>
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col-4">
-                        <h5 class="black-text"><i class="fab fa-windows" style="color: #444;"></i> Windows</h5>
-                        <ul class="text-muted">
-                            <li><a href="#" class="text-muted">Xentavo.zip</a></li>
-                            <li><a href="#" class="text-muted">Xentavo-Installer.exe</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-4">
-                        <h5 class="black-text"><i class="fab fa-apple" style="color: #444;"></i> MacOS</h5>
-                        <ul class="text-muted">
-                            <li><a href="#" class="text-muted">Xentavo-Wallet.dmg</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-4">
-                        <h5 class="black-text"><i class="fab fa-linux" style="color: #444;"></i> Linux</h5>
-                        <ul class="text-muted">
-                            <li><a href="#" class="text-muted">Xentavo-Wallet.tgz</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- DOWNLOADS -->

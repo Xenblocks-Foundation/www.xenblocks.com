@@ -1,55 +1,56 @@
-        <div class="anchor" id="foundation"></div>
 
         <!-- FOUNDATION -->
-        <div class="light-bg padding-t-2em padding-b-2em">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 header">
-                        <h4 class="black-text">Xentavo Foundation</h4>
-                    </div>
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col-md-12">
-                        <p style="text-align: center;">
-                            We are always looking for active members that want to join the project
-                            and contribute to the community. Our team is made of core developers and community members
-                            that believe in the future of crypto-currencies and want to make an impact on the space.
-                        </p>
-                        <br />
-                        <div style="text-align: center;">
-                            <a href="join.html" class="btn btn-lg btn-primary"
-                                style="width: 300px;">
-                                Join Xentavo Foundation
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="light-bg padding-b-2em">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 header">
-                        <h4 class="black-text"><i class="cf cf-btc"></i> Donations</h4>
-                    </div>
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col-md-12">
-                        <p style="text-align: center;">
-                            Would you like to support Xentavo? We are accepting donations:
-                        </p>
-                        <br />
-                        <div style="text-align: center;">
-                            <table style="text-align: left; margin-left: auto; margin-right: auto;">
-                            <tr><td><i class="cf cf-btc"></i> BTC:</td><td>1KvA5FXgnNG7xb89wC3yiFFFAdu8MsXvJj</td></tr>
-                            <tr><td><i class="cf cf-ltc"></i> LTC:</td><td>LXVfM5swN3SXdPDBsLcyZqwLAyYYs9jXYa</td></tr>
-                            <tr><td><i class="cf cf-eth"></i> ETH:</td><td>0x1fdeacb9663c9e898ce196aa04412dd7cca62152</td></tr>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="light-bg">
+          <div class="padding-t-2em padding-b-2em">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-12 header">
+                          <h4 class="black-text">Xentavo Foundation</h4>
+                      </div>
+                  </div>
+                  <hr />
+                  <div class="row">
+                      <div class="col-md-12">
+                          <p style="text-align: center;">
+                              We are always looking for active members that want to join the project
+                              and contribute to the community. Our team is made of core developers and community members
+                              that believe in the future of crypto-currencies and want to make an impact on the space.
+                          </p>
+                          <br />
+                          <div style="text-align: center;">
+                              <a href="join.html" class="btn btn-lg btn-primary"
+                                  style="width: 300px;">
+                                  Join Xentavo Foundation
+                              </a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="padding-b-2em">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-12 header">
+                          <h4 class="black-text"><i class="cf cf-btc"></i> Donations</h4>
+                      </div>
+                  </div>
+                  <hr />
+                  <div class="row">
+                      <div class="col-md-12">
+                          <p style="text-align: center;">
+                              Would you like to support Xentavo? We are accepting donations:
+                          </p>
+                          <br />
+                          <div style="text-align: center;">
+                              <table style="text-align: left; margin-left: auto; margin-right: auto;">
+                              <tr><td><i class="cf cf-btc"></i> BTC:</td><td>1KvA5FXgnNG7xb89wC3yiFFFAdu8MsXvJj</td></tr>
+                              <tr><td><i class="cf cf-ltc"></i> LTC:</td><td>LXVfM5swN3SXdPDBsLcyZqwLAyYYs9jXYa</td></tr>
+                              <tr><td><i class="cf cf-eth"></i> ETH:</td><td>0x1fdeacb9663c9e898ce196aa04412dd7cca62152</td></tr>
+                              </table>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
         </div>
         <!-- FOUNDATION -->

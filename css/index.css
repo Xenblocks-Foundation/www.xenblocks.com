@@ -1,7 +1,7 @@
 body {
   min-width: 1170px !important;
   background-color: black !important;
-  margin-top: 60px;
+  /*margin-top: 60px;*/
 }
 
 p {
@@ -31,9 +31,9 @@ ul.no-padding {
 
 .xentavo-coin {
   height: 36px;
-  padding-right: 20px;
-  position: relative;
-  left: 14px;
+  padding-right: 5px;
+  /*position: relative;*/
+  /*left: 14px;*/
 }
 
 .anchor {

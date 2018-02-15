@@ -3,7 +3,9 @@
             <!-- NAVBAR -->
             <header>
                 <div class="navbar navbar-expand navbar-dark bg-dark box-shadow fixed-top">
-                    <div class="container d-flex justify-content-between">
+                  <div style="min-width: 1170px; margin-left: auto; margin-right: auto;">
+                    <div class="container d-flex justify-content-between"
+                      style="width: 1000px; min-width: 1000px; margin-left: auto; margin-right: auto;">
                         <a href="./" class="navbar-brand d-flex align-items-center">
                           <img class="xentavo-coin" src="img/xentavo.png" />
                           <strong>XENTAVO</strong>
@@ -23,6 +25,7 @@
                             </li>
                         </ul>
                     </div>
+                  </div>
                 </div>
             </header>
             <!-- NAVBAR -->

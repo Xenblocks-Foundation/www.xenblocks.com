@@ -1,0 +1,21 @@
+/* OVERRIDES */
+
+.navbar-fixed-top,
+.navbar-fixed-bottom {
+  min-width: 970px;
+}
+
+/* Reset the container */
+.container {
+  width: 970px;
+  max-width: none !important;
+}
+
+.navbar {
+  background-color: #000 !important;
+  border-bottom: 1px solid darkgreen;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white !important;
+}

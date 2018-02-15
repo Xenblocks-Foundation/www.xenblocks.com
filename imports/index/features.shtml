@@ -1,0 +1,26 @@
+        <!-- FEATURES -->
+        <div class="dark-bg padding-t-2em padding-b-2em">
+            <div class="container">
+                <div class="row">
+                    <div class="col-4">
+                        <h4><i class="fas fa-keyboard" style="color: #444;"></i> The Project</h4>
+                        <p class="text-muted">Xentavo Foundation exists to help bring crypto-currencies into the digital world. We want to help blockchain technologies to lead innovation in the next years to come.
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <h4><i class="fas fa-flag-checkered" style="color: #444;"></i> Features</h4>
+                        <ul class="text-muted">
+                            <li>Litecoin based blockchain</li>
+                            <li>Identity verification</li>
+                            <li>Highly scalable architecture</li>
+                            <li>Enterprise level security</li>
+                        </ul>
+                    </div>
+                    <div class="col-4">
+                        <h4><i class="fas fa-code" style="color: #444;"></i> Developers</h4>
+                        <p class="text-muted">Developers are at the center of the Xentavo Project. We are building a simplified layer of abstraction on top of blockchain technologies to easy its adoption on the digital world.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- FEATURES -->

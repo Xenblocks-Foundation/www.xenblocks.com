@@ -1,0 +1,110 @@
+        <div class="anchor" id="roadmap"></div>
+
+        <!-- ROADMAP -->
+        <div class="light-bg padding-t-2em padding-b-2em">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 header">
+                        <h4 class="black-text">Roadmap</h4>
+                        <p class="text-muted">Key Xentavo's milestones.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <h5 class="black-text" style="text-align: right;">Q1 2017</h5>
+                        </div>
+                    </div>
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <ul class="no-padding">
+                                <li>Blockchain deployment <i class="fas fa-check-circle" style="color: green;"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <h5 class="black-text" style="text-align: right;">Q1 2018</h5>
+                        </div>
+                    </div>
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <ul class="no-padding">
+                                <li>Xentavo Website <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Xentavo Community <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Windows, Linux & Mac Wallets <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Online Wallet (Web, iOS & Android) <i class="fas fa-check-circle" style="color: green;"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-6 col-sm-6 col-block">
+                        <div class="text-box">
+                            <h5 class="black-text" style="text-align: right;">Q2 2018</h5>
+                        </div>
+                    </div>
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <ul class="no-padding">
+                                <li>Xentavo Block Explorer</li>
+                                <li>Xentavo ICO</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-6 col-sm-6 col-block">
+                        <div class="text-box">
+                            <h5 class="black-text" style="text-align: right;">Q3 2018</h5>
+                        </div>
+                    </div>
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <ul class="no-padding">
+                                <li>Xentavo listed on Exchanges</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-6 col-sm-6 col-block">
+                        <div class="text-box">
+                            <h5 class="black-text" style="text-align: right;">Q4 2018</h5>
+                        </div>
+                    </div>
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <ul class="no-padding">
+                                <li>Xentavo Platform REST API Beta</li>
+                                <li>Xentavo Developers Portal Beta</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-6 col-sm-6 col-block">
+                        <div class="text-box">
+                            <h5 class="black-text" style="text-align: right;">2019 (TBD)</h5>
+                        </div>
+                    </div>
+                    <div class="col-6 col-block">
+                        <div class="text-box">
+                            <ul class="no-padding">
+                                <li>Xentavo Blockchain SAAS</li>
+                                <li>Xentavo Smart Contracts Support</li>
+                                <li>Xentavo DAPPS</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ROADMAP -->

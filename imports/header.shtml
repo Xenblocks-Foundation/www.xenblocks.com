@@ -21,7 +21,7 @@
                                 <a class="nav-link" href="join.html">Join Now!</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://wallet.xentavo.org/" target="_blank">Online Wallet</a>
+                                <a class="nav-link" href="https://wallet.xentavo.org/">Web Wallet</a>
                             </li>
                         </ul>
                     </div>

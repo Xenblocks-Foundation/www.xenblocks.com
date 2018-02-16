@@ -35,8 +35,8 @@
                             <ul class="no-padding">
                                 <li>Xentavo Website <i class="fas fa-check-circle" style="color: green;"></i></li>
                                 <li>Xentavo Community <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Windows, Linux & Mac Wallets <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Online Wallet (Web, iOS & Android) <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Windows & Web Wallet (Desktop, iOS & Android) <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Linux & Mac Wallets </li>
                             </ul>
                         </div>
                     </div>

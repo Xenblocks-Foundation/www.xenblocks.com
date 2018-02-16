@@ -5,19 +5,19 @@
               <div class="container">
                   <div class="row">
                       <div class="col-12 header">
-                          <h4 class="black-text">Online Wallet</h4>
+                          <h4 class="black-text">Web Wallet</h4>
                       </div>
                   </div>
                   <hr />
                   <div class="row">
                       <div class="col-12">
                           <p style="text-align: center;">
-                              Sign up now and get access to our online wallet compatible with desktop and mobile devices.</p>
+                              Sign up now and get access to our web wallet compatible with desktop and mobile devices.</p>
                           <br />
                           <div style="text-align: center;">
                               <a href="https://wallet.xentavo.org" class="btn btn-lg btn-success"
-                                  style="width: 300px;" target="_blank">
-                                  Get Xentavo Online Wallet
+                                  style="width: 300px;">
+                                  Get Xentavo Web Wallet
                               </a>
                           </div>
                       </div>

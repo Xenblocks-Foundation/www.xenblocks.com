@@ -12,7 +12,11 @@
                   <div class="row">
                       <div class="col-12">
                           <p style="text-align: center;">
-                              Sign up now and get access to our web wallet compatible with desktop and mobile devices.</p>
+                              Sign up now on our web wallet. Compatible with desktop and mobile devices.
+                              <br />
+                              <strong class="text-success">For limited time only, all new users get
+                                <span style="color: black;">5.00 XEN</span> for FREE at sign up time.</strong>
+                          </p>
                           <br />
                           <div style="text-align: center;">
                               <a href="https://wallet.xentavo.org" class="btn btn-lg btn-success"

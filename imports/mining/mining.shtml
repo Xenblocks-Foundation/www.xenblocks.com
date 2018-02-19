@@ -6,8 +6,101 @@
                         <h4 class="black-text">How to mine Xentavo</h4>
                         <br />
                         <p class="text-muted">
-                          Coming soon.
+                          Mining Xentavo Coins is very simple. You will need to follow these steps:
+                          <ol>
+                            <li>Get a Xentavo Address (Note: Xentavo addresses start with X)</li>
+                            <li>Get the mining software for your OS & hardware</li>
+                            <li>Run the mining program with the settings to join our mining pool and using your Xentavo Address where the coins will get deposited</li>
+                          </ol>
                         </p>
+                        <br />
+                        <h4 class="black-text">Instructions</h4>
+                        <p>
+                          1. You can get a Xentavo address by registering at
+                          <a href="https://wallet.xentavo.com">https://wallet.xentavo.com</a> or by downloading one of the Xentavo-QT wallets.
+                        </p>
+                        <p>
+                          a) If you are using the Web Wallet, your Xentavo Address is the XEN Address value found in the Receive Tab:
+                          <img src="img/xentavo-wallet-address.png" width="100%" />
+                        </p>
+
+                        <br />
+                        <br />
+
+                        <p>
+                          b) If you are using one of the Xentavo-QT wallets, your Xentavo address is found on the Receive tab on the Address column.
+                          You can create new addresses and use any of them.
+                          <div style="text-align: center;">
+                            <img src="img/xentavo-qt-linux.png" width="75%" />
+                          </div>
+                        </p>
+
+                        <br />
+                        <br />
+
+                        <p>
+                          2. You can get mining software for your OS from here:
+                          <ul>
+                            <li>CPU Mining (most common): <a href="https://github.com/pooler/cpuminer/releases" target="_blank">pooler-cpuminer</a>
+                            <li>NVIDIA GPU Mining (advanced): <a href="https://github.com/tpruvot/ccminer/releases" target="_blank">ccminer</a></li>
+                            <li>AMD GPU Mining (advanced): <a href="https://github.com/nicehash/cgminer-3.7.2-scrypt-jane/releases" target="_blank">cgminer</a></li>
+                          </ul>
+                        </p>
+                        <br />
+                        <p>
+                          3. To start mining you must excute the software you downloaded with one of the following settings, depending how you decided to mine:
+                          <br /><br />
+                          <strong>For CPU Mining (pooler-cpuminer):</strong>
+                          <br/>
+                          <code>
+                            minerd -a scrypt -o stratum+tcp://pool.xentavo-coin.org:3008 -u YOUR_XENTAVO_ADDRESS -p random
+                          </code>
+                          <br />
+                          <br />
+                          <strong>For NVIDIA GPU Mining:</strong>
+                          <br/>
+                          <code>
+                            ccminer-x64 -a scrypt -o stratum+tcp://pool.xentavo-coin.org:3008 -u YOUR_XENTAVO_ADDRESS -p random
+                          </code>
+                          <br />
+                          <br />
+                          <strong>For AMD GPU Mining:</strong>
+                          <br/>
+                          <code>
+                            cgminer.exe --scrypt --url=stratum+tcp://pool.xentavo-coin.org:3008 --YOUR_XENTAVO_ADDRESS:random
+                          </code>
+                        </p>
+
+                        <p>
+                          Note:
+                          You must replace YOUR_XENTAVO_ADDRESS with your own XEN Address found on the Receive tab of the online wallet, or any XEN Address that you have created to receive XEN  coins.
+                          The pool pays about once a day.
+                        </p>
+
+
+                        <br />
+                        <br />
+                        <h4 class="black-text">Check your mining status</h4>
+                        <p>
+                          Once you run your miner, you will see an screen that looks like this:
+                          <br >
+                          <div style="text-align: center;">
+                            <img src="img/xentavo-mining.png" width="75%" />
+                          </div>
+                        </p>
+
+                        <p>
+                          Every time that you see a yay!! means that your block got accepted and you will earn some XEN coins. The pool pays once a day, so you can except to receive
+                          XEN coins within 24 hours after you start mining.
+                        </p>
+
+                        <br />
+                        <br />
+                        <h4 class="black-text">Pool statistics</h4>
+                        <p>You can view the status of your mining worker by looking at the <a href="http://pool.xentavo.org:8080/workers" target="_blank">pool stats</a>.
+                          Find your XEN Address to see the Hashrate of your worker and how many shares you are getting.
+                        </p>
+
                     </div>
                 </div>
             </div>

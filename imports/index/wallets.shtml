@@ -44,7 +44,7 @@
                           <h5 class="black-text"><i class="fab fa-windows" style="color: #444;"></i> Windows</h5>
                           <ul class="text-muted">
                               <li><a href="downloads/windows/xentavo-qt.exe.zip" class="text-muted">Xentavo-QT-Wallet.zip</a></li>
-                              <li><a href="downloads/windows/xentavod.exe.zip" class="text-muted">Xentavo-Deamon.zip</a></li>
+                              <li><a href="downloads/windows/xentavod.exe.zip" class="text-muted">Xentavo-Daemon.zip</a></li>
                           </ul>
                       </div>
                       <div class="col-4">

@@ -33,10 +33,10 @@
                     <div class="col-6 col-block">
                         <div class="text-box">
                             <ul class="no-padding">
-                                <li>Xentavo Website <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Xentavo Community <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Windows & Web Wallet (Desktop, iOS & Android) <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Linux & Mac Wallets </li>
+                                <li>Web Wallet (Desktop, iOS & Android) <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Windows Wallet <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Linux Wallet <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Mac Wallet </li>
                             </ul>
                         </div>
                     </div>

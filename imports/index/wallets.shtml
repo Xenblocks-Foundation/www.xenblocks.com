@@ -56,7 +56,10 @@
                       <div class="col-4">
                           <h5 class="black-text"><i class="fab fa-linux" style="color: #444;"></i> Linux</h5>
                           <ul class="text-muted">
-                              <li><a class="text-muted">Coming soon</a></li>
+                              <li><a href="downloads/linux/xentavo-qt-static-32bit.tgz" class="text-muted">Xentavo QT Wallet 32bit</a></li>
+                              <li><a href="downloads/linux/xentavod-static-32bit.tgz" class="text-muted">Xentavo Daemon (Node)</a></li>
+                              <li><a href="downloads/linux/xentavo-qt-static-64bit.tgz" class="text-muted">Xentavo QT Wallet 64bit</a></li>
+                              <li><a href="downloads/linux/xentavod-static-64bit.tgz" class="text-muted">Xentavo Daemon 64bit (Node)</a></li>
                           </ul>
                       </div>
                   </div>

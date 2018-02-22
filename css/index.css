@@ -1,3 +1,8 @@
+*::selection {
+  color: white;
+  background-color: black;
+}
+
 body {
   min-width: 1170px !important;
   background-color: black !important;

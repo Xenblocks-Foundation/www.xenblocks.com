@@ -43,9 +43,9 @@
                           <br />
                           <div style="text-align: center;">
                               <table style="text-align: left; margin-left: auto; margin-right: auto;">
-                              <tr><td><i class="cf cf-btc"></i> BTC:</td><td>1KvA5FXgnNG7xb89wC3yiFFFAdu8MsXvJj</td></tr>
-                              <tr><td><i class="cf cf-ltc"></i> LTC:</td><td>LXVfM5swN3SXdPDBsLcyZqwLAyYYs9jXYa</td></tr>
-                              <tr><td><i class="cf cf-eth"></i> ETH:</td><td>0x1fdeacb9663c9e898ce196aa04412dd7cca62152</td></tr>
+                              <tr><td><i class="cf cf-btc"></i> BTC:</td><td style="word-break: break-all;">1KvA5FXgnNG7xb89wC3yiFFFAdu8MsXvJj</td></tr>
+                              <tr><td><i class="cf cf-ltc"></i> LTC:</td><td style="word-break: break-all;">LXVfM5swN3SXdPDBsLcyZqwLAyYYs9jXYa</td></tr>
+                              <tr><td><i class="cf cf-eth"></i> ETH:</td><td style="word-break: break-all;">0x1fdeacb9663c9e898ce196aa04412dd7cca62152</td></tr>
                               </table>
                           </div>
                       </div>

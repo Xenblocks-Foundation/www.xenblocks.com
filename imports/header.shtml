@@ -2,14 +2,17 @@
             <div class="anchor" id="top"></div>
             <!-- NAVBAR -->
             <header>
-                <div class="navbar navbar-expand navbar-dark bg-dark box-shadow">
-                  <div style="min-width: 1170px; margin-left: auto; margin-right: auto;">
-                    <div class="container d-flex justify-content-between"
-                      >
-                        <a href="./" class="navbar-brand d-flex align-items-center">
-                          <img class="xentavo-coin" src="img/xentavo.png" />
-                          <strong>XENTAVO</strong>
-                        </a>
+                <div class="navbar navbar-expand-lg navbar-dark bg-dark box-shadow">
+                  <div class="container d-flex justify-content-between">
+                      <a href="./" class="navbar-brand d-flex align-items-center">
+                        <img class="xentavo-coin" src="img/xentavo.png" />
+                        <strong>XENBLOCKS</strong>
+                      </a>
+                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars"
+                        aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="collapse navbar-collapse" id="navbars">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
                                 <a class="nav-link" href="./">Home</a>
@@ -24,7 +27,7 @@
                                 <a class="nav-link" href="https://wallet.xentavo.org/">Web Wallet</a>
                             </li>
                         </ul>
-                    </div>
+                      </div>
                   </div>
                 </div>
             </header>

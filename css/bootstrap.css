@@ -2,14 +2,14 @@
 
 .navbar-fixed-top,
 .navbar-fixed-bottom {
-  min-width: 970px;
+  /*min-width: 970px;*/
 }
 
 /* Reset the container */
-.container {
-  width: 970px;
-  max-width: none !important;
-}
+/*.container {*/
+  /*width: 970px;*/
+  /*max-width: none !important;*/
+/*}*/
 
 .navbar {
   background-color: #000 !important;
@@ -18,4 +18,14 @@
 
 h1, h2, h3, h4, h5, h6 {
   color: white !important;
+}
+
+@media (max-width:992px){
+  .hidden-xs{display:none!important}
+}
+
+@media (min-width:992px){
+  .visible-xs{
+    display:none!important
+  }
 }

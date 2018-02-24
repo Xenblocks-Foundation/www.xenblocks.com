@@ -3,7 +3,7 @@
             <div style="background-color: #000">
                 <footer class="container padding-t-2em padding-b-2em">
                     <div class="row">
-                        <div class="col-3">
+                        <div class="col-12 col-sm-3">
                             <h5>Newsletter</h5>
                             <ul class="list-unstyled text-small">
                                 <li><span class="text-muted">Keep in touch with us!</span></li>
@@ -25,7 +25,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-sm-3">
                             <h5>Documentation</h5>
                             <ul class="list-unstyled text-small">
                                 <li><a class="text-muted" href="manifesto.html">Manifesto & White Paper</a></li>
@@ -33,7 +33,7 @@
                                 <li><a class="text-muted" href="faq.html">FAQ</a></li>
                             </ul>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-sm-3">
                             <h5>Resources</h5>
                             <ul class="list-unstyled text-small">
                                 <li><a class="text-muted" href="http://pool.xentavo.org:8080">Official Pool</a></li>
@@ -41,7 +41,7 @@
                                 <li><a class="text-muted" href="https://github.com/Xentavo-Foundation">Github</a></li>
                             </ul>
                         </div>
-                        <div class="col-3">
+                        <div class="col-12 col-sm-3">
                             <h5>Community</h5>
                             <ul class="list-unstyled text-small">
                                 <li><a class="text-muted" href="https://www.reddit.com/user/xentavocoin/" target="_blank">Reddit</a></li>

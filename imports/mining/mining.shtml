@@ -3,24 +3,24 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-sm-12 header">
-                        <h4 class="black-text">How to mine Xentavo</h4>
+                        <h4 class="black-text">How to mine Xenblocks</h4>
                         <br />
                         <p class="text-muted">
-                          Mining Xentavo Coins is very simple. You will need to follow these steps:
+                          Mining Xenblocks Coins is very simple. You will need to follow these steps:
                           <ol>
-                            <li>Get a Xentavo Address (Note: Xentavo addresses start with X)</li>
+                            <li>Get a Xenblocks Address (Note: Xenblocks addresses start with X)</li>
                             <li>Get the mining software for your OS & hardware</li>
-                            <li>Run the mining program with the settings to join our mining pool and using your Xentavo Address where the coins will get deposited</li>
+                            <li>Run the mining program with the settings to join our mining pool and using your Xenblocks Address where the coins will get deposited</li>
                           </ol>
                         </p>
                         <br />
                         <h4 class="black-text">Instructions</h4>
                         <p>
-                          1. You can get a Xentavo address by registering at
-                          <a href="https://wallet.xentavo.com">https://wallet.xentavo.com</a> or by downloading one of the Xentavo-QT wallets.
+                          1. You can get a Xenblocks address by registering at
+                          <a href="https://wallet.xentavo.com">https://wallet.xentavo.com</a> or by downloading one of the Xenblocks-QT wallets.
                         </p>
                         <p>
-                          a) If you are using the Web Wallet, your Xentavo Address is the XEN Address value found in the Receive Tab:
+                          a) If you are using the Web Wallet, your Xenblocks Address is the XEN Address value found in the Receive Tab:
                           <img src="img/xentavo-wallet-address.png" width="100%" />
                         </p>
 
@@ -28,7 +28,7 @@
                         <br />
 
                         <p>
-                          b) If you are using one of the Xentavo-QT wallets, your Xentavo address is found on the Receive tab on the Address column.
+                          b) If you are using one of the Xenblocks-QT wallets, your Xenblocks address is found on the Receive tab on the Address column.
                           You can create new addresses and use any of them.
                           <div style="text-align: center;">
                             <img src="img/xentavo-qt-linux.png" width="75%" />

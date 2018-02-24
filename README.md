@@ -1,4 +1,4 @@
-# Xentavo.org
+# Xenblocks.org
 
 
 Website repo for www.xentavo.org. The site uses vanilla JS and HTML5 to render a fast

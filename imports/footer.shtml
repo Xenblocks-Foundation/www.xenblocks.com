@@ -29,7 +29,7 @@
                             <h5>Documentation</h5>
                             <ul class="list-unstyled text-small">
                                 <li><a class="text-muted" href="manifesto.html">Manifesto & White Paper</a></li>
-                                <li><a class="text-muted" href="mining.html">Mining Xentavo</a></li>
+                                <li><a class="text-muted" href="mining.html">Mining Xenblocks</a></li>
                                 <li><a class="text-muted" href="faq.html">FAQ</a></li>
                             </ul>
                         </div>
@@ -38,7 +38,7 @@
                             <ul class="list-unstyled text-small">
                                 <li><a class="text-muted" href="http://pool.xentavo.org:8080">Official Pool</a></li>
                                 <li><a class="text-muted" href="https://wallet.xentavo.org">Web Wallet</a></li>
-                                <li><a class="text-muted" href="https://github.com/Xentavo-Foundation">Github</a></li>
+                                <li><a class="text-muted" href="https://github.com/Xenblocks-Foundation">Github</a></li>
                             </ul>
                         </div>
                         <div class="col-12 col-sm-3">
@@ -53,7 +53,7 @@
                     <br />
                     <div class="row" style="color: gray; text-align: left;">
                       <div class="col-12">
-                        <small>All rights reserved 2018 &copy; Xentavo.org</small>
+                        <small>All rights reserved 2018 &copy; Xenblocks.org</small>
                       </div>
                     </div>
                 </footer>

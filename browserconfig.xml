@@ -3,10 +3,10 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="img/xentavo.png"/>
-            <square150x150logo src="img/xentavo.png"/>
-            <wide310x150logo src="img/xentavo.png"/>
-            <square310x310logo src="img/xentavo.png"/>
+            <square70x70logo src="img/xenblocks.png"/>
+            <square150x150logo src="img/xenblocks.png"/>
+            <wide310x150logo src="img/xenblocks.png"/>
+            <square310x310logo src="img/xenblocks.png"/>
         </tile>
     </msapplication>
 </browserconfig>

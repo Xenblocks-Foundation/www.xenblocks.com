@@ -36,17 +36,17 @@
                         <div class="col-12 col-sm-3">
                             <h5>Resources</h5>
                             <ul class="list-unstyled text-small">
-                                <li><a class="text-muted" href="http://pool.xentavo.org:8080">Official Pool</a></li>
-                                <li><a class="text-muted" href="https://wallet.xentavo.org">Web Wallet</a></li>
+                                <li><a class="text-muted" href="http://pool.xenblocks.org:8080">Official Pool</a></li>
+                                <li><a class="text-muted" href="https://wallet.xenblocks.org">Web Wallet</a></li>
                                 <li><a class="text-muted" href="https://github.com/Xenblocks-Foundation">Github</a></li>
                             </ul>
                         </div>
                         <div class="col-12 col-sm-3">
                             <h5>Community</h5>
                             <ul class="list-unstyled text-small">
-                                <li><a class="text-muted" href="https://www.reddit.com/user/xentavocoin/" target="_blank">Reddit</a></li>
-                                <li><a class="text-muted" href="https://t.me/xentavotalk" target="_blank">Telegram</a></li>
-                                <li><a class="text-muted" href="https://twitter.com/xentavocoin" target="_blank">Twitter</a></li>
+                                <li><a class="text-muted" href="https://www.reddit.com/user/xenblockscoin/" target="_blank">Reddit</a></li>
+                                <li><a class="text-muted" href="https://t.me/xenblockstalk" target="_blank">Telegram</a></li>
+                                <li><a class="text-muted" href="https://twitter.com/xenblockscoin" target="_blank">Twitter</a></li>
                             </ul>
                         </div>
                     </div>

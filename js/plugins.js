@@ -40,7 +40,7 @@ $(document).ready(function(){
     }
     $.ajax({
       type: 'POST',
-      url: 'http://api.xentavo.org:3002/newsletter',
+      url: 'http://api.xenblocks.org:3002/newsletter',
       data: {
         email: email
       },
@@ -100,7 +100,7 @@ $(document).ready(function(){
 
     $.ajax({
       type: 'POST',
-      url: 'http://api.xentavo.org:3002/members',
+      url: 'http://api.xenblocks.org:3002/members',
       data: {
         name: name,
         email: email,

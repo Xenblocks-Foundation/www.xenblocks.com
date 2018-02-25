@@ -17,11 +17,11 @@
                         <h4 class="black-text">Instructions</h4>
                         <p>
                           1. You can get a Xenblocks address by registering at
-                          <a href="https://wallet.xentavo.com">https://wallet.xentavo.com</a> or by downloading one of the Xenblocks-QT wallets.
+                          <a href="https://wallet.xenblocks.com">https://wallet.xenblocks.com</a> or by downloading one of the Xenblocks-QT wallets.
                         </p>
                         <p>
                           a) If you are using the Web Wallet, your Xenblocks Address is the XEN Address value found in the Receive Tab:
-                          <img src="img/xentavo-wallet-address.png" width="100%" />
+                          <img src="img/xenblocks-wallet-address.png" width="100%" />
                         </p>
 
                         <br />
@@ -31,7 +31,7 @@
                           b) If you are using one of the Xenblocks-QT wallets, your Xenblocks address is found on the Receive tab on the Address column.
                           You can create new addresses and use any of them.
                           <div style="text-align: center;">
-                            <img src="img/xentavo-qt-linux.png" width="75%" />
+                            <img src="img/xenblocks-qt-linux.png" width="75%" />
                           </div>
                         </p>
 
@@ -53,21 +53,21 @@
                           <strong>For CPU Mining (pooler-cpuminer):</strong>
                           <br/>
                           <code>
-                            minerd -a scrypt -o stratum+tcp://pool.xentavo-coin.org:3008 -u YOUR_XENTAVO_ADDRESS -p random
+                            minerd -a scrypt -o stratum+tcp://pool.xenblocks-coin.org:3008 -u YOUR_XENTAVO_ADDRESS -p random
                           </code>
                           <br />
                           <br />
                           <strong>For NVIDIA GPU Mining:</strong>
                           <br/>
                           <code>
-                            ccminer-x64 -a scrypt -o stratum+tcp://pool.xentavo-coin.org:3008 -u YOUR_XENTAVO_ADDRESS -p random
+                            ccminer-x64 -a scrypt -o stratum+tcp://pool.xenblocks-coin.org:3008 -u YOUR_XENTAVO_ADDRESS -p random
                           </code>
                           <br />
                           <br />
                           <strong>For AMD GPU Mining:</strong>
                           <br/>
                           <code>
-                            cgminer.exe --scrypt --url=stratum+tcp://pool.xentavo-coin.org:3008 --YOUR_XENTAVO_ADDRESS:random
+                            cgminer.exe --scrypt --url=stratum+tcp://pool.xenblocks-coin.org:3008 --YOUR_XENTAVO_ADDRESS:random
                           </code>
                         </p>
 
@@ -85,7 +85,7 @@
                           Once you run your miner, you will see an screen that looks like this:
                           <br >
                           <div style="text-align: center;">
-                            <img src="img/xentavo-mining.png" width="75%" />
+                            <img src="img/xenblocks-mining.png" width="75%" />
                           </div>
                         </p>
 
@@ -97,7 +97,7 @@
                         <br />
                         <br />
                         <h4 class="black-text">Pool statistics</h4>
-                        <p>You can view the status of your mining worker by looking at the <a href="http://pool.xentavo.org:8080/workers" target="_blank">pool stats</a>.
+                        <p>You can view the status of your mining worker by looking at the <a href="http://pool.xenblocks.org:8080/workers" target="_blank">pool stats</a>.
                           Find your XEN Address to see the Hashrate of your worker and how many shares you are getting.
                         </p>
 

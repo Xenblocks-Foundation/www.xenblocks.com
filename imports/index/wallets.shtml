@@ -19,7 +19,7 @@
                           </p>
                           <br />
                           <div style="text-align: center;">
-                              <a href="https://wallet.xentavo.org" class="btn btn-lg btn-success"
+                              <a href="https://wallet.xenblocks.org" class="btn btn-lg btn-success"
                                   style="width: 300px;">
                                   Get Xenblocks Web Wallet
                               </a>
@@ -43,8 +43,8 @@
                       <div class="col-12 col-md-4">
                           <h5 class="black-text"><i class="fab fa-windows" style="color: #444;"></i> Windows</h5>
                           <ul class="text-muted">
-                              <li><a href="downloads/windows/xentavo-qt.exe.zip" class="text-muted">Xenblocks-QT-Wallet.zip</a></li>
-                              <li><a href="downloads/windows/xentavod.exe.zip" class="text-muted">Xenblocks-Daemon.zip</a></li>
+                              <li><a href="downloads/windows/xenblocks-qt.exe.zip" class="text-muted">Xenblocks-QT-Wallet.zip</a></li>
+                              <li><a href="downloads/windows/xenblocksd.exe.zip" class="text-muted">Xenblocks-Daemon.zip</a></li>
                           </ul>
                       </div>
                       <div class="col-12 col-md-4">
@@ -56,10 +56,10 @@
                       <div class="col-12 col-md-4">
                           <h5 class="black-text"><i class="fab fa-linux" style="color: #444;"></i> Linux</h5>
                           <ul class="text-muted">
-                              <li><a href="downloads/linux/xentavo-qt-static-32bit.tgz" class="text-muted">Xenblocks QT Wallet 32bit</a></li>
-                              <li><a href="downloads/linux/xentavod-static-32bit.tgz" class="text-muted">Xenblocks Daemon 32bit (Node)</a></li>
-                              <li><a href="downloads/linux/xentavo-qt-static-64bit.tgz" class="text-muted">Xenblocks QT Wallet 64bit</a></li>
-                              <li><a href="downloads/linux/xentavod-static-64bit.tgz" class="text-muted">Xenblocks Daemon 64bit (Node)</a></li>
+                              <li><a href="downloads/linux/xenblocks-qt-static-32bit.tgz" class="text-muted">Xenblocks QT Wallet 32bit</a></li>
+                              <li><a href="downloads/linux/xenblocksd-static-32bit.tgz" class="text-muted">Xenblocks Daemon 32bit (Node)</a></li>
+                              <li><a href="downloads/linux/xenblocks-qt-static-64bit.tgz" class="text-muted">Xenblocks QT Wallet 64bit</a></li>
+                              <li><a href="downloads/linux/xenblocksd-static-64bit.tgz" class="text-muted">Xenblocks Daemon 64bit (Node)</a></li>
                           </ul>
                       </div>
                   </div>

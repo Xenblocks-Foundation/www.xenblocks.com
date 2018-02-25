@@ -1,4 +1,4 @@
-# Xenblocks.org
+# Xenblocks.com
 
 
 Website repo for www.xenblocks.com. The site uses vanilla JS and HTML5 to render a fast

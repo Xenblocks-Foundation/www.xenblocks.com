@@ -97,7 +97,7 @@
                         <br />
                         <br />
                         <h4 class="black-text">Pool statistics</h4>
-                        <p>You can view the status of your mining worker by looking at the <a href="http://pool.xenblocks.org:8080/workers" target="_blank">pool stats</a>.
+                        <p>You can view the status of your mining worker by looking at the <a href="http://pool.xenblocks.com:8080/workers" target="_blank">pool stats</a>.
                           Find your XEN Address to see the Hashrate of your worker and how many shares you are getting.
                         </p>
 

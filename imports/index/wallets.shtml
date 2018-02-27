@@ -43,8 +43,11 @@
                       <div class="col-12 col-md-4">
                           <h5 class="black-text"><i class="fab fa-windows" style="color: #444;"></i> Windows</h5>
                           <ul class="text-muted">
+                              We are updating our binaries.
+                              <!--
                               <li><a href="downloads/windows/xenblocks-qt.exe.zip" class="text-muted">Xenblocks-QT-Wallet.zip</a></li>
                               <li><a href="downloads/windows/xenblocksd.exe.zip" class="text-muted">Xenblocks-Daemon.zip</a></li>
+                              -->
                           </ul>
                       </div>
                       <div class="col-12 col-md-4">
@@ -56,10 +59,13 @@
                       <div class="col-12 col-md-4">
                           <h5 class="black-text"><i class="fab fa-linux" style="color: #444;"></i> Linux</h5>
                           <ul class="text-muted">
+                              We are updating our binaries.
+                              <!--
                               <li><a href="downloads/linux/xenblocks-qt-static-32bit.tgz" class="text-muted">Xenblocks QT Wallet 32bit</a></li>
                               <li><a href="downloads/linux/xenblocksd-static-32bit.tgz" class="text-muted">Xenblocks Daemon 32bit (Node)</a></li>
                               <li><a href="downloads/linux/xenblocks-qt-static-64bit.tgz" class="text-muted">Xenblocks QT Wallet 64bit</a></li>
                               <li><a href="downloads/linux/xenblocksd-static-64bit.tgz" class="text-muted">Xenblocks Daemon 64bit (Node)</a></li>
+                              -->
                           </ul>
                       </div>
                   </div>

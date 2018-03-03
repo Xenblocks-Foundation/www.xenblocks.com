@@ -15,7 +15,7 @@
                               Sign up now on our web wallet. Compatible with desktop and mobile devices.
                               <br />
                               <strong class="text-success">For limited time only, all new users get
-                                <span style="color: black;">5.00 XEN</span> for FREE at sign up time.</strong>
+                                <span style="color: black;">5.00 XNB</span>.</strong>
                           </p>
                           <br />
                           <div style="text-align: center;">
@@ -40,33 +40,38 @@
                   </div>
                   <hr />
                   <div class="row">
-                      <div class="col-12 col-md-4">
-                          <h5 class="black-text"><i class="fab fa-windows" style="color: #444;"></i> Windows</h5>
-                          <ul class="text-muted">
-                              We are updating our binaries.
-                              <!--
-                              <li><a href="downloads/windows/xenblocks-qt.exe.zip" class="text-muted">Xenblocks-QT-Wallet.zip</a></li>
-                              <li><a href="downloads/windows/xenblocksd.exe.zip" class="text-muted">Xenblocks-Daemon.zip</a></li>
-                              -->
-                          </ul>
+                      <div class="col-12 col-lg-4 col-md-6 text-muted">
+                        <a href="downloads/windows/xenblocks-win32.zip" class="btn btn-lg btn-info wallet-dl-btn">
+                          <div class="media">
+                            <i class="fab fa-windows mr-4 align-self-center wallet-dl-media"></i>
+                            <div class="media-body wallet-dl-media-body">
+                              <small>DOWNLOAD<br />Xenblocks Core for Windows</small>
+                            </div>
+                          </div>
+                        </a>
+                        <small><a class="text-info" href="downloads/windows/xenblocks-win32.zip">32bit</a> | <a class="text-info" href="downloads/windows/xenblocks-win64.zip">64bit</a></small>
                       </div>
-                      <div class="col-12 col-md-4">
-                          <h5 class="black-text"><i class="fab fa-apple" style="color: #444;"></i> MacOS</h5>
-                          <ul class="text-muted">
-                              <li><a class="text-muted">Coming soon</a></li>
-                          </ul>
+                      <div class="col-12 col-lg-4 col-md-6 text-muted">
+                        <a href="downloads/mac/Xenblocks-Qt.dmg" class="btn btn-lg btn-info wallet-dl-btn">
+                          <div class="media">
+                            <i class="fab fa-apple mr-4 align-self-center wallet-dl-media"></i>
+                            <div class="media-body wallet-dl-media-body">
+                              <small>DOWNLOAD<br />Xenblocks Core for Mac</small>
+                            </div>
+                          </div>
+                        </a>
+                        <small><a class="text-info" href="downloads/mac/xenblocks-cmd.zip">Non GUI version</a></small>
                       </div>
-                      <div class="col-12 col-md-4">
-                          <h5 class="black-text"><i class="fab fa-linux" style="color: #444;"></i> Linux</h5>
-                          <ul class="text-muted">
-                              We are updating our binaries.
-                              <!--
-                              <li><a href="downloads/linux/xenblocks-qt-static-32bit.tgz" class="text-muted">Xenblocks QT Wallet 32bit</a></li>
-                              <li><a href="downloads/linux/xenblocksd-static-32bit.tgz" class="text-muted">Xenblocks Daemon 32bit (Node)</a></li>
-                              <li><a href="downloads/linux/xenblocks-qt-static-64bit.tgz" class="text-muted">Xenblocks QT Wallet 64bit</a></li>
-                              <li><a href="downloads/linux/xenblocksd-static-64bit.tgz" class="text-muted">Xenblocks Daemon 64bit (Node)</a></li>
-                              -->
-                          </ul>
+                      <div class="col-12 col-lg-4 col-md-6 text-muted">
+                        <a href="downloads/linux/xenblocks-i686.tgz" class="btn btn-lg btn-info wallet-dl-btn">
+                          <div class="media">
+                            <i class="fab fa-linux mr-4 align-self-center wallet-dl-media"></i> <br />
+                            <div class="media-body wallet-dl-media-body">
+                              <small>DOWNLOAD<br />Xenblocks Core for Linux</small>
+                            </div>
+                          </div>
+                        </a>
+                        <small><a class="text-info" href="downloads/linux/xenblocks-i686.tgz">32bit</a> | <a class="text-info" href="downloads/linux/xenblocks-x86_64.tgz">64bit</a></small>
                       </div>
                   </div>
               </div>

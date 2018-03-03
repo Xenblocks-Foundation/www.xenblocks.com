@@ -20,7 +20,7 @@
                           <a href="https://wallet.xenblocks.com">https://wallet.xenblocks.com</a> or by downloading one of the Xenblocks-QT wallets.
                         </p>
                         <p>
-                          a) If you are using the Web Wallet, your Xenblocks Address is the XEN Address value found in the Receive Tab:
+                          a) If you are using the Web Wallet, your Xenblocks Address is the XNB Address value found in the Receive Tab:
                           <img src="img/xenblocks-wallet-address.png" width="100%" />
                         </p>
 
@@ -53,27 +53,27 @@
                           <strong>For CPU Mining (pooler-cpuminer):</strong>
                           <br/>
                           <code>
-                            minerd -a scrypt -o stratum+tcp://pool.xenblocks.com:3008 -u YOUR_XENTAVO_ADDRESS -p random
+                            minerd -a scrypt -o stratum+tcp://pool.xenblocks.com:3008 -u YOUR_XENBLOCKS_ADDRESS -p random
                           </code>
                           <br />
                           <br />
                           <strong>For NVIDIA GPU Mining:</strong>
                           <br/>
                           <code>
-                            ccminer-x64 -a scrypt -o stratum+tcp://pool.xenblocks.com:3008 -u YOUR_XENTAVO_ADDRESS -p random
+                            ccminer-x64 -a scrypt -o stratum+tcp://pool.xenblocks.com:3008 -u YOUR_XENBLOCKS_ADDRESS -p random
                           </code>
                           <br />
                           <br />
                           <strong>For AMD GPU Mining:</strong>
                           <br/>
                           <code>
-                            cgminer.exe --scrypt --url=stratum+tcp://pool.xenblocks.com:3008 --YOUR_XENTAVO_ADDRESS:random
+                            cgminer.exe --scrypt --url=stratum+tcp://pool.xenblocks.com:3008 --YOUR_XENBLOCKS_ADDRESS:random
                           </code>
                         </p>
 
                         <p>
                           Note:
-                          You must replace YOUR_XENTAVO_ADDRESS with your own XEN Address found on the Receive tab of the online wallet, or any XEN Address that you have created to receive XEN  coins.
+                          You must replace YOUR_XENBLOCKS_ADDRESS with your own XNB Address found on the Receive tab of the online wallet, or any XNB Address that you have created to receive XNB  coins.
                           The pool pays about once a day.
                         </p>
 
@@ -90,15 +90,15 @@
                         </p>
 
                         <p>
-                          Every time that you see a yay!! means that your block got accepted and you will earn some XEN coins. The pool pays once a day, so you can except to receive
-                          XEN coins within 24 hours after you start mining.
+                          Every time that you see a yay!! means that your block got accepted and you will earn XNB coins. The pool pays once a day, so you can except to receive
+                          XNB coins within 24 hours after you start mining.
                         </p>
 
                         <br />
                         <br />
                         <h4 class="black-text">Pool statistics</h4>
                         <p>You can view the status of your mining worker by looking at the <a href="http://pool.xenblocks.com:8080/workers" target="_blank">pool stats</a>.
-                          Find your XEN Address to see the Hashrate of your worker and how many shares you are getting.
+                          Find your XNB Address to see the Hashrate of your worker and how many shares you are getting.
                         </p>
 
                     </div>

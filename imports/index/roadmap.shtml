@@ -34,10 +34,8 @@
                     <div class="col-12 col-md-6 col-block">
                         <div class="text-box">
                             <ul class="no-padding">
-                                <li>Web Wallet (Desktop, iOS & Android) <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Windows Wallet <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Linux Wallet <i class="fas fa-check-circle" style="color: green;"></i></li>
-                                <li>Mac Wallet </li>
+                                <li>Web Wallet (Mobile/Desktop) <i class="fas fa-check-circle" style="color: green;"></i></li>
+                                <li>Windows, Mac, Linux Wallets <i class="fas fa-check-circle" style="color: green;"></i></li>
                             </ul>
                         </div>
                     </div>

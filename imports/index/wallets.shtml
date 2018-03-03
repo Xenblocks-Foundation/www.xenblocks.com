@@ -41,7 +41,7 @@
                   <hr />
                   <div class="row">
                       <div class="col-12 col-lg-4 col-md-6 text-muted">
-                        <a href="downloads/windows/xenblocks-win32.zip" class="btn btn-lg btn-info wallet-dl-btn">
+                        <a href="downloads/windows/xenblocks-win64.zip" class="btn btn-lg btn-info wallet-dl-btn">
                           <div class="media">
                             <i class="fab fa-windows mr-4 align-self-center wallet-dl-media"></i>
                             <div class="media-body wallet-dl-media-body">
@@ -49,7 +49,7 @@
                             </div>
                           </div>
                         </a>
-                        <small><a class="text-info" href="downloads/windows/xenblocks-win64.zip">32bit</a> | <a class="text-info" href="downloads/windows/xenblocks-win64.zip">64bit</a></small>
+                        <small><a class="text-info" href="downloads/windows/xenblocks-win32.zip">32bit</a> | <a class="text-info" href="downloads/windows/xenblocks-win64.zip">64bit</a></small>
                       </div>
                       <div class="col-12 col-lg-4 col-md-6 text-muted">
                         <a href="downloads/mac/Xenblocks-Qt.dmg" class="btn btn-lg btn-info wallet-dl-btn">
@@ -63,7 +63,7 @@
                         <small><a class="text-info" href="downloads/mac/xenblocks-cmd.zip">Non GUI version</a></small>
                       </div>
                       <div class="col-12 col-lg-4 col-md-6 text-muted">
-                        <a href="downloads/linux/xenblocks-i686.tgz" class="btn btn-lg btn-info wallet-dl-btn">
+                        <a href="downloads/linux/xenblocks-x86_64.tgz" class="btn btn-lg btn-info wallet-dl-btn">
                           <div class="media">
                             <i class="fab fa-linux mr-4 align-self-center wallet-dl-media"></i> <br />
                             <div class="media-body wallet-dl-media-body">
@@ -71,7 +71,7 @@
                             </div>
                           </div>
                         </a>
-                        <small><a class="text-info" href="downloads/linux/xenblocks-x86_64.tgz">32bit</a> | <a class="text-info" href="downloads/linux/xenblocks-x86_64.tgz">64bit</a></small>
+                        <small><a class="text-info" href="downloads/linux/xenblocks-i686.tgz">32bit</a> | <a class="text-info" href="downloads/linux/xenblocks-x86_64.tgz">64bit</a></small>
                       </div>
                   </div>
               </div>

@@ -49,7 +49,7 @@
                             </div>
                           </div>
                         </a>
-                        <small><a class="text-info" href="downloads/windows/xenblocks-win32.zip">32bit</a> | <a class="text-info" href="downloads/windows/xenblocks-win64.zip">64bit</a></small>
+                        <small><a class="text-info" href="downloads/windows/xenblocks-win64.zip">32bit</a> | <a class="text-info" href="downloads/windows/xenblocks-win64.zip">64bit</a></small>
                       </div>
                       <div class="col-12 col-lg-4 col-md-6 text-muted">
                         <a href="downloads/mac/Xenblocks-Qt.dmg" class="btn btn-lg btn-info wallet-dl-btn">
@@ -71,7 +71,7 @@
                             </div>
                           </div>
                         </a>
-                        <small><a class="text-info" href="downloads/linux/xenblocks-i686.tgz">32bit</a> | <a class="text-info" href="downloads/linux/xenblocks-x86_64.tgz">64bit</a></small>
+                        <small><a class="text-info" href="downloads/linux/xenblocks-x86_64.tgz">32bit</a> | <a class="text-info" href="downloads/linux/xenblocks-x86_64.tgz">64bit</a></small>
                       </div>
                   </div>
               </div>

@@ -54,11 +54,19 @@ Xenblocks relevant and current with the existing crypto-currency ecosystem.
   </strong>
 </p>
 <p>
-  Currently, coins are distributed in the following way: 1) New users get 5, 50 o 500 new coins on sign up.
-  2) For every referral, the referrer user gets 5 coins. 3) All newly minted coins are distributed to all
-  users, however, depending how many referrals a users has made more coins will be allocated for him/her. A user
-  gets 1 share of the pool for singing up, and 1 share for every referral made. 4) Users that do
-  not login into the web-wallet longer than 30 days might loose their participation on the daily distribution.
+  Currently, coins are distributed in the following way:
+  <ol>
+  <li>New users get 5, 50 o 500 coins on sign up.</li>
+  <li>For every referral, the referrer user gets 5, 50 or 500 coins.</li>
+  <li>All newly minted coins are distributed to all users, however, depending how many referrals a users
+      has made more coins will be allocated for him/her. A user gets 1 share of the pool for singing up, and
+      1 share for every referral made. Disclosure: Users that do not login into the web-wallet longer than 30 days might
+      loose their participation on the daily distribution. Only the top 1000 referrers will get coins. There
+      might be a cap on the total shares a user can get in the pool for daily distribution.</li>
+  <li>Coins are awarded to members of the community who contribute to the project.</li>
+  <li>There are ocassionally give aways to all users to celebrate milestones or special events such as
+    a user year anniversary with Xenblocks.</li>
+  </ol>
 </p>
 
 <br />

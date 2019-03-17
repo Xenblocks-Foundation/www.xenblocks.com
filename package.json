@@ -1,0 +1,9 @@
+{
+    "name": "www.xenblocks.com",
+    "dependencies": {
+        "font-awesome": "^4.7.0",
+        "bootstrap": "^4.0.0",
+        "cryptofont": "^0.1.1",
+        "toastr": "^2.1.3"
+    }
+}

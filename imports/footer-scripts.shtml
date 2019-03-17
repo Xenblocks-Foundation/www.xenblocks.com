@@ -7,7 +7,7 @@
   window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')
 </script>
 
-<script src="bower_components/toastr/toastr.min.js"></script>
+<script src="bower_components/toastr/build/toastr.min.js"></script>
 
 <script>
   toastr.options.closeMethod = 'fadeOut';

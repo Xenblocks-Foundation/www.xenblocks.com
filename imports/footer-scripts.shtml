@@ -8,6 +8,8 @@
 </script>
 
 <script src="bower_components/toastr/build/toastr.min.js"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous"></script>
+
 
 <script>
   toastr.options.closeMethod = 'fadeOut';

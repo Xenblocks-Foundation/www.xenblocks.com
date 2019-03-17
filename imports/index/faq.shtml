@@ -1,0 +1,153 @@
+        <!-- FAQ -->
+        <div class="light-bg padding-t-2em padding-b-2em">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-sm-12 header">
+                        <h4 class="black-text">Frequently Asked Questions</h4>
+                        <hr />
+                        <div class="row padding-t-2em">
+                          <div class="faq" style="width: 90%; margin: 0 auto;">
+<p>
+<strong>
+1. What is the motivation behind this project?
+</strong>
+</p>
+<p>
+  Initially, we set out to build a new crypto-currency. However, we quickly realized that due to time
+  constrains and our responsibilities it was impossible for us to execute our vision. And during our
+  journey we realized that there was a bigger need to help people learn about crypto so we decided
+  to pivot our project into this new vision. The project was born by a few friends getting together and
+  decided they wanted to learn about crypto currencies and explore the space. And most importantly, to
+  have a lot of fun while doing it!
+</p>
+
+<br />
+
+<p>
+  <strong>
+    2. Why cloning Litecoin?
+  </strong>
+</p>
+<p>
+Litecoin is a clone of Bitcoin. However, it evolves at a faster pace while remaining as the most compatible
+crypto protocol. By basin Xenblocks on Litecoin we have immediate access to all the Bitcoin and Litecoin
+ecosystem including software and hardware wallets, exchanges support, documentation, tooling, etc. Keeping
+Xenblocks relevant and current with the existing crypto-currency ecosystem.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    3. How many total coins will there be and how many have been pre-mined?
+  </strong>
+</p>
+<p>
+  Xenblocks will have a total of 1 Billion coins and 500 Million have been pre-mined.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    4. How are you distributing the coins?
+  </strong>
+</p>
+<p>
+  Currently, coins are distributed in the following way: 1) New users get 5, 50 o 500 new coins on sign up.
+  2) For every referral, the referrer user gets 5 coins. 3) All newly minted coins are distributed to all
+  users, however, depending how many referrals a users has made more coins will be allocated for him/her. A user
+  gets 1 share of the pool for singing up, and 1 share for every referral made. 4) Users that do
+  not login into the web-wallet longer than 30 days might loose their participation on the daily distribution.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    5. How can I get more coins?
+  </strong>
+</p>
+<p>
+  The easiest way to get additional coins is by mining Xenblocks. See our <a href="mining.html">mining guide</a>
+  for more information.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    6. How do you prevent users from abusing the program?
+  </strong>
+</p>
+<p>
+  We continually monitor our programs and when we detect that a user is abusing the program we
+  reserve the right to refuse services and close the abusive accounts.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    7. What is the difference between the Web and Desktop wallets?
+  </strong>
+</p>
+<p>
+  The web-wallet runs in our servers and users can access it from anywhere. It allows users to view coin balances,
+  send and receive coins and collect daily coin rewards. Desktop wallets are stored in users computers, they
+  are not accessible by our services and users are responsible of keeping their balances and security keys.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    8. Are my coins safe in the web-wallet?
+  </strong>
+</p>
+<p>
+  We do our best efforts to keep web-wallets secure. However, we cannot guarantee that there could be
+  security breaches in our services, so we recommend all users to frequently transfer their coins form
+  their web-wallets to their own Desktop wallets. As well, as backing up their keys and keeping them
+  in cold storage.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    9. Where should I keep my coins?
+  </strong>
+</p>
+<p>
+  The web-wallet is a portal to get new coins, send and receive coins, and learn the basics of crypto-currencies.
+  However, for security reasons we recommend every user to store their coins on their own Desktop wallets. We
+  cannot guarantee that there will not be security breaches to our servers that could put users accounts at
+  danger and loose their coins. However, we will do our best efforts to keep our systems as secure as possible.
+</p>
+
+<br />
+
+<p>
+  <strong>
+    10. Do the Xenblocks (XNB) coins have any value?
+  </strong>
+</p>
+<p>
+  No, Xenblocks coins (XNB) currently do not have any value. At this point we don't have any plans to have XNB traded
+  on exchanges. However, we do not rule that possibility out in the future. As that is something that can happen
+  outside our control. In which case, the value of XNB would be set by the free market.
+</p>
+
+<br />
+
+
+</p>
+
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- FAQ -->

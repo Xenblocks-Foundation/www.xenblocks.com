@@ -4,21 +4,26 @@
                 <div class="row">
                     <div class="col-12 col-md-4 padding-t-2em ">
                         <h4><i class="fas fa-keyboard" style="color: #444;"></i> The Project</h4>
-                        <p class="text-muted">Xenblocks Foundation exists to help bring crypto-currencies into the digital world. We want to help blockchain technologies to lead innovation in the next years to come.
+                        <p class="text-muted">Xenblocks Foundation exists to help people learn about crypto-currencies.
+                          We want make it as easy as possible for everyone to learn hands on how crypto currencies work
+                          without cost and hassle free.
                         </p>
                     </div>
                     <div class="col-12 col-md-4 padding-t-2em ">
                         <h4><i class="fas fa-flag-checkered" style="color: #444;"></i> Features</h4>
                         <ul class="text-muted">
-                            <li>Litecoin based blockchain</li>
-                            <li>Identity verification</li>
-                            <li>Highly scalable architecture</li>
-                            <li>Enterprise level security</li>
+                            <li>Litecoin clone</li>
+                            <li>Windows, Mac, Linux and Web wallets </li>
+                            <li>Free coins at sign up and daily give aways</li>
+                            <li>Tutorials and documentation</li>
+                            <li>An active community</li>
                         </ul>
                     </div>
                     <div class="col-12 col-md-4 padding-t-2em ">
-                        <h4><i class="fas fa-code" style="color: #444;"></i> Developers</h4>
-                        <p class="text-muted">Developers are at the center of the Xenblocks Project. We are building a simplified layer of abstraction on top of blockchain technologies to easy its adoption on the digital world.</p>
+                        <h4><i class="fas fa-code" style="color: #444;"></i> Community</h4>
+                        <p class="text-muted">The community is at the center of the XenBlocks project. We want to
+                        foster a friendly community of crypto-currencies advocates that want to help drive
+                        crypto currencies adoption in the world.</p>
                     </div>
                 </div>
             </div>

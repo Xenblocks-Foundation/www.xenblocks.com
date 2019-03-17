@@ -8,6 +8,7 @@
                         <h4 class="black-text">Roadmap</h4>
                     </div>
                 </div>
+                <hr />
                 <div class="row padding-t-2em">
                     <div class="col-12 col-md-6 col-block">
                         <div class="text-box">
@@ -23,7 +24,6 @@
                         </div>
                     </div>
                 </div>
-                <hr />
                 <div class="row">
                     <div class="col-12 col-md-6 col-block">
                         <div class="text-box">
@@ -40,69 +40,32 @@
                         </div>
                     </div>
                 </div>
-                <hr />
                 <div class="row">
                     <div class="col-12 col-sm-6 col-block">
                         <div class="text-box">
-                            <h5 class="black-text hidden-xs" style="text-align: right;">Q2 2018</h5>
-                            <h5 class="black-text visible-xs" style="text-align: left;">Q3 2018</h5>
+                            <h5 class="black-text hidden-xs" style="text-align: right;">Q2 2019</h5>
+                            <h5 class="black-text visible-xs" style="text-align: left;">Q2 2019</h5>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-block">
                         <div class="text-box">
                             <ul class="no-padding">
-                                <li>Xenblocks Block Explorer</li>
+                                <li>Tutorials, Documentation & Translations (WIP)</li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <hr />
                 <div class="row">
                     <div class="col-12 col-sm-6 col-block">
                         <div class="text-box">
-                            <h5 class="black-text hidden-xs" style="text-align: right;">Q3 2018</h5>
-                            <h5 class="black-text visible-xs" style="text-align: left;">Q3 2018</h5>
+                            <h5 class="black-text hidden-xs" style="text-align: right;">Q1 2020</h5>
+                            <h5 class="black-text visible-xs" style="text-align: left;">Q1 2020</h5>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-block">
                         <div class="text-box">
                             <ul class="no-padding">
-                                <li>Xenblocks on Exchanges</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col-12 col-sm-6 col-block">
-                        <div class="text-box">
-                            <h5 class="black-text hidden-xs" style="text-align: right;">Q4 2018</h5>
-                            <h5 class="black-text visible-xs" style="text-align: left;">Q4 2018</h5>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 ">
-                        <div class="text-box">
-                            <ul class="no-padding">
-                                <li>Xenblocks Platform REST API Beta</li>
-                                <li>Xenblocks Developers Portal Beta</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col-12 col-sm-6 col-block">
-                        <div class="text-box">
-                            <h5 class="black-text hidden-xs" style="text-align: right;">2019 (TBD)</h5>
-                            <h5 class="black-text visible-xs" style="text-align: left;">2019 (TBD)</h5>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-block">
-                        <div class="text-box">
-                            <ul class="no-padding">
-                                <li>Xenblocks Blockchain SAAS</li>
-                                <li>Xenblocks Smart Contracts Support</li>
-                                <li>Xenblocks DAPPS</li>
+                                <li>Xenblocks Trading Platform</li>
                             </ul>
                         </div>
                     </div>

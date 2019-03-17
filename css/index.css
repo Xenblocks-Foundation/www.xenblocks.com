@@ -158,3 +158,11 @@ a.primary-green:visited
   text-align: left;
   line-height: 1.2em;
 }
+
+
+.faq strong {
+  color: black;
+  font-size: 1.2em;
+  font-weight: 500;
+  margin-top: 20px;
+}

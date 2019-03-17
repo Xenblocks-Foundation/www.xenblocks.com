@@ -14,8 +14,8 @@
                           <p style="text-align: center;">
                               Sign up now on our web wallet. Compatible with desktop and mobile devices.
                               <br />
-                              <strong class="text-success">For limited time only, all new users get
-                                <span style="color: black;">5.00 XNB</span>.</strong>
+                              <strong class="text-success">* For limited time, new users get
+                                <span style="color: black;">5.00, 50.00 or 500 XNB coins</span>.</strong>
                           </p>
                           <br />
                           <div style="text-align: center;">
@@ -23,6 +23,10 @@
                                   style="width: 300px;">
                                   Get Xenblocks Web Wallet
                               </a>
+                          </div>
+                          <div style="text-align: center; font-size: 8pt;">
+                            <br />
+                              * Amount is randomly selected and subject to availability
                           </div>
                       </div>
                   </div>
